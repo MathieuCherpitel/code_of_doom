@@ -1,2 +1,3 @@
 # code_of_doom
-random programs
+
+Just some random programs that are not useless but not useful, not fun but not boring, not great but not bad but I made them so...
